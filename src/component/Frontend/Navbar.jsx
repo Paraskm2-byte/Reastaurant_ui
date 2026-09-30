@@ -159,7 +159,7 @@ function Navbar() {
           </Button>
           <Link to="/menu"> <Button
             as={RouterLink}
-            to="/contact"
+            to="/menu"
             bg="#D4A017"
             color="black"
             px={6}
@@ -318,7 +318,7 @@ function Navbar() {
 
                     <Button
                       as={RouterLink}
-                      to="/contact"
+                      to="/menu"
                       bg="#D4A017"
                       color="black"
                       borderRadius="full"
