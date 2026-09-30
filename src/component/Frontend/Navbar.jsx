@@ -161,10 +161,10 @@ function Navbar() {
             as={RouterLink}
             to="/menu"
             bg="#D4A017"
-            color="black"
+            color="green"
             px={6}
             borderRadius="full"
-            fontWeight="700"
+            fontWeight="800"
             _hover={{
               bg: '#E5B52A',
               transform: 'translateY(-2px)',
